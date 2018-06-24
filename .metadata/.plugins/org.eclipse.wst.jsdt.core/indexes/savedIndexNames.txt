@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\ccami\Desktop\ChattBank\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+737654249.index
